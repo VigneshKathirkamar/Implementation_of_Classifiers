@@ -1,4 +1,5 @@
-# VGG16
+# Implementation of popular classifers using Tensorflow 2.0
+## VGG16
 ## Implementation of VGG 16 neural network 
 
 VGG16 is a convolutional neural network which was proposed by K. Simonyan and A. Zisserman. 
